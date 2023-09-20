@@ -9,3 +9,4 @@
 /timer
 *.bin
 *.srec
+rkspi
